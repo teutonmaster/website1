@@ -1,0 +1,74 @@
+body {
+margin: 0;
+font-family: Helvetica, Arial, sans-serif;
+font-size: 20px;
+line-height: 30px;
+background-image: linear-gradient(red, green);
+
+}
+
+header {
+background-color: blue;
+text-align: center;
+padding-top: 50px;
+}
+
+
+
+h1,h2,h3{
+font-family: 'Trade Winds', serif;
+text-shadow: 4px 4px 4px #aaa;
+}
+
+header h1{
+color: white;
+font-size: 40px;
+
+}
+
+header img {
+border-radius: 150px;
+width: 250px;
+border: 20px solid purple;
+
+}
+
+main {
+margin: 0 auto;
+max-width:800px;
+padding: 0 24px;
+
+}
+
+
+main img{
+max-width:100%;
+}
+
+h2 {
+font-size: 30px;
+color: orange;
+}
+
+p{
+font-size: 20px;
+}
+
+
+a{
+color: yellow;
+}
+
+a:hover{
+color: green;
+}
+
+
+p.caption{
+color: grey;
+font-style: italic;
+text-align: center;
+margin-top: 0;
+}
+
+
